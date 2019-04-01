@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ddong-item/ddong-item.iml" filepath="$PROJECT_DIR$/ddong-item/ddong-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-item/ddong-item-interface/ddong-item-interface.iml" filepath="$PROJECT_DIR$/ddong-item/ddong-item-interface/ddong-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-item/ddong-item-service/ddong-item-service.iml" filepath="$PROJECT_DIR$/ddong-item/ddong-item-service/ddong-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-parents.iml" filepath="$PROJECT_DIR$/ddong-parents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-registry/ddong-registry.iml" filepath="$PROJECT_DIR$/ddong-registry/ddong-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-zuul/ddong-zuul.iml" filepath="$PROJECT_DIR$/ddong-zuul/ddong-zuul.iml" />
+    </modules>
+  </component>
+</project>
